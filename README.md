@@ -1,4 +1,4 @@
-<p align="center"><img src="https://socialify.git.ci/the13joker1/flow-chart/image?description=1&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/its-tujo/flow-chart/image?description=1&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
   
   
